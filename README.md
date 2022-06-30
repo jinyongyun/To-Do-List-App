@@ -31,3 +31,4 @@ func tableView(_ tableView: UiTableView, cellForRowAt indexPath: IndexPath) -> U
 ![스크린샷 2022-06-30 오후 3 44 41](https://user-images.githubusercontent.com/102133961/176610431-ecfb52db-63d8-40db-a1d8-059e16d28aa9.jpg)
 ![스크린샷 2022-06-30 오후 3 45 11](https://user-images.githubusercontent.com/102133961/176610521-49f3b785-0f4e-4f75-ad06-9ae0b75d5c8b.jpg)
 ![스크린샷 2022-06-30 오후 3 45 30](https://user-images.githubusercontent.com/102133961/176610566-8b210b92-e61c-49d4-93a4-e641d92bc4c8.jpg)
+![스크린샷 2022-06-30 오후 4 11 35](https://user-images.githubusercontent.com/102133961/176615311-c9e72e39-5c2b-4c95-b919-dcee32701c24.jpg)
